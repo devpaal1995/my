@@ -1,0 +1,19 @@
+ img{
+    margin: 10px;
+ }
+
+ .container{
+    height: 400px;
+    width: 600px;
+    background-color: #F0E6E6;
+ }
+
+ li{
+    
+    list-style: none;
+ }
+ 
+ .list
+ {
+    margin-top: 50px;
+ }

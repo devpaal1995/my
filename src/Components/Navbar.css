@@ -1,0 +1,16 @@
+.navitem {
+    
+    margin-right: 20px;
+}
+
+
+li{
+    margin: 8px;
+    text-decoration: none;
+}
+
+@media screen and (min-width: 480px){
+    h3{
+        font-size: x-small;
+    }
+}
